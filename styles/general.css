@@ -329,6 +329,7 @@ border-color: #1f80e0;
   font-weight: 500;
   text-transform: capitalize;
   margin-top: 60%;
+  height: 20%;
 }
 
 .des{
@@ -337,6 +338,7 @@ border-color: #1f80e0;
   margin: 5px 0;
   font-weight: 500;
   font-size: 12px;
+  height: 12%;
 }
 
 .watchlist-btn{
