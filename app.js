@@ -47,7 +47,7 @@ for (let i = 0; i < 4; i++) {
 
 setInterval(() => {
   createSlide();
-}, 5000);
+}, 6000);
 
 const videoCards = [...document.querySelectorAll('.video-card')];
 
